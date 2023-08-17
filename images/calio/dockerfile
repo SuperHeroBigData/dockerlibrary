@@ -1,1 +1,1 @@
-From k8s.gcr.io/labring/calico:v3.24.1
+From labring/calico:v3.24.1
